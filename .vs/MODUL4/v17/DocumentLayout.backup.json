@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\MODUL4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6FC42CF-EF4D-48C8-AE67-844D000D821E}|MODUL4.csproj|d:\\modul4\\fanlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FC42CF-EF4D-48C8-AE67-844D000D821E}|MODUL4.csproj|solutionrelative:fanlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MODUL4\\KodeProdukMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KodeProdukMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6FC42CF-EF4D-48C8-AE67-844D000D821E}|MODUL4.csproj|d:\\modul4\\kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FC42CF-EF4D-48C8-AE67-844D000D821E}|MODUL4.csproj|solutionrelative:kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MODUL4\\KodeProduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KodeProduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6FC42CF-EF4D-48C8-AE67-844D000D821E}|MODUL4.csproj|d:\\modul4\\kodeprodukmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FC42CF-EF4D-48C8-AE67-844D000D821E}|MODUL4.csproj|solutionrelative:kodeprodukmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MODUL4\\FanLaptopMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FanLaptopMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MODUL4\\FanLaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FanLaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FanLaptop.cs",
-              "DocumentMoniker": "D:\\MODUL4\\FanLaptop.cs",
-              "RelativeDocumentMoniker": "FanLaptop.cs",
-              "ToolTip": "D:\\MODUL4\\FanLaptop.cs",
-              "RelativeToolTip": "FanLaptop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T00:21:49.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "KodeProdukMain.cs",
               "DocumentMoniker": "D:\\MODUL4\\KodeProdukMain.cs",
               "RelativeDocumentMoniker": "KodeProdukMain.cs",
               "ToolTip": "D:\\MODUL4\\KodeProdukMain.cs",
               "RelativeToolTip": "KodeProdukMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T00:06:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FanLaptopMain.cs",
+              "DocumentMoniker": "D:\\MODUL4\\FanLaptopMain.cs",
+              "RelativeDocumentMoniker": "FanLaptopMain.cs",
+              "ToolTip": "D:\\MODUL4\\FanLaptopMain.cs",
+              "RelativeToolTip": "FanLaptopMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T00:58:04.818Z",
               "EditorCaption": ""
             },
             {
@@ -62,9 +66,22 @@
               "RelativeDocumentMoniker": "KodeProduk.cs",
               "ToolTip": "D:\\MODUL4\\KodeProduk.cs",
               "RelativeToolTip": "KodeProduk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:50:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FanLaptop.cs",
+              "DocumentMoniker": "D:\\MODUL4\\FanLaptop.cs",
+              "RelativeDocumentMoniker": "FanLaptop.cs",
+              "ToolTip": "D:\\MODUL4\\FanLaptop.cs",
+              "RelativeToolTip": "FanLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T00:21:49.174Z",
               "EditorCaption": ""
             }
           ]

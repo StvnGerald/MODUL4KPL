@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MODUL4
 {
-    internal class KodeProduk
+    class KodeProduk
     {
         private Dictionary<string, String> dataKodeProduk;
 
