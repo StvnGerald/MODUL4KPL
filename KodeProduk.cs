@@ -26,5 +26,17 @@ namespace MODUL4
                 {"Kamera", "E109"}
             };
         }
+
+        public String GetKodeProduk(string ProductCode)
+        {
+            if (dataKodeProduk.ContainsKey(ProductCode))
+            {
+                return dataKodeProduk[ProductCode];
+            }
+            else
+            {
+                return "-1";
+            }
+        }
     }
 }
